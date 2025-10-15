@@ -103,7 +103,7 @@ function renderGames() {
             // Constrói a string de links
             let linksHtml = '';
             if (game.links && game.links.length > 0) {
-                linksHtml = '<p class="game-links-title">Opções de Transmissão:</p><ul>';
+                linksHtml = '<p class="game-links-title">Links:</p><ul>';
                 game.links.forEach((link, index) => {
                     // Crie um nome para cada link, ou use o URL como texto
                     const linkName = `Opção ${index + 1}`;
