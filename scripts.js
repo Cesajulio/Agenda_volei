@@ -1,28 +1,36 @@
 // A agenda de jogos agora é um array de objetos em JavaScript
 const gamesOfTheDay = [
     {
-      tournament: "Liga Siatkowki - 1ª rodada",
+      tournament: "Lega Femminile - 3ª rodada",
       modality: "Vôlei de Quadra (Feminino)",
-      team1: "Bielsko-Biala",
-      team2: "Rzeszów",
-      time: "12h30",
+      team1: "Novara",
+      team2: "Chieri",
+      time: "14h15",
       channel: "VBTV"
     },
     {
-      tournament: "Superliga - 2ª rodada",
+      tournament: "Lega Femminile - 3ª rodada",
       modality: "Vôlei de Quadra (Feminino)",
-      team1: "Moscow",
-      team2: "Krasnodar",
-      time: "13h",
-      channel: "VolleyRU"
+      team1: "Cuneo",
+      team2: "Scandicci",
+      time: "15h30",
+      channel: "VBTV"
     },
     {
-      tournament: "Paulista - Final",
-      modality: "Vôlei de Quadra (Masculino)",
-      team1: "Suzano",
-      team2: "Campinas",
-      time: "20h30",
-      channel: "SporTV 2"
+      tournament: "Lega Femminile - 3ª rodada",
+      modality: "Vôlei de Quadra (Feminino)",
+      team1: "San Giovanni",
+      team2: "Conegliano",
+      time: "15h30",
+      channel: "VBTV"
+    },
+    {
+      tournament: "Lega Femminile - 3ª rodada",
+      modality: "Vôlei de Quadra (Feminino)",
+      team1: "Milano",
+      team2: "Vallefoglia",
+      time: "15h30",
+      channel: "VBTV"
     }
 ];
 
@@ -48,7 +56,7 @@ function renderGames() {
                         ${game.team1} vs ${game.team2}
                     </p>
                     <p class="game-details">
-                        Horário: ${game.time} | Transmissão: ${game.channel}
+                        Horário: ${game.time} (horário de Brasília) | Transmissão: ${game.channel}
                     </p>
                 </div>
             `;
