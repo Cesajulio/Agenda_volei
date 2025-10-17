@@ -1,88 +1,27 @@
 // A agenda de jogos agora é um array de objetos em JavaScript
 const gamesOfTheDay = [
     {
-      tournament: "Lega Femminile - 3ª rodada",
+      tournament: "🇵🇱 Liga Siatkowki - Segunda rodada",
       modality: "Vôlei de Quadra (Feminino)",
-      team1: "Novara",
-      team2: "Chieri",
-      time: "14h15",
+      team1: "ŁKS Łódź",
+      team2: "Bydgoszcz",
+      time: "12h30",
       channel: "VBTV",
       links: [
-          "https://m.vkvideo.ru/video-152308117_456251273?from=video",
-          "https://pt.sportplus.tv/volleyball/327487/7199355/"
+          "https://en84.sportplus.live/volleyball/2136350/7205094/"
       ]
     },
     {
-      tournament: "Lega Femminile - 3ª rodada",
-      modality: "Vôlei de Quadra (Feminino)",
-      team1: "Cuneo",
-      team2: "Scandicci",
-      time: "15h30",
-      channel: "VBTV",
+      tournament: "🇧🇷 Paulista - Final",
+      modality: "Vôlei de Quadra (Masculino)",
+      team1: "Campinas",
+      team2: "Suzano",
+      time: "20h30",
+      channel: "SporTV 2",
       links: [
-          "https://m.vkvideo.ru/video-152308117_456251274?from=video",
-          "https://pt.sportplus.tv/volleyball/327487/7199236/"
+          "https://ge.globo.com/sportv/video/sportv-2-ao-vivo-no-geglobo-fifa-monitoracao-7690141.ghtml"
+          
       ]
-    },
-    {
-      tournament: "Lega Femminile - 3ª rodada",
-      modality: "Vôlei de Quadra (Feminino)",
-      team1: "San Giovanni",
-      team2: "Conegliano",
-      time: "15h30",
-      channel: "VBTV",
-      links: [
-          "https://m.vkvideo.ru/video-152308117_456251275?from=video",
-          "https://pt.sportplus.tv/volleyball/327487/7199451/"
-      ]
-    },
-    {
-      tournament: "Lega Femminile - 3ª rodada",
-      modality: "Vôlei de Quadra (Feminino)",
-      team1: "Milano",
-      team2: "Vallefoglia",
-      time: "15h30",
-      channel: "VBTV",
-      links: [
-          "https://pt.sportplus.tv/volleyball/327487/7199246/",
-          "https://www.facebook.com/share/1D6r62CSxn/?mibextid=wwXIfr"
-      ]
-    },
-    {
-        tournament:"Lega Femminile - 3ª rodada",
-        modality:"Vôlei de Quadra (Feminino)",
-        team1:"Busto Arsizio",
-        team2:"Bergamo",
-        time:"15:30",
-        channel:"VBTV",
-        links: [
-            "https://pt.sportplus.tv/volleyball/327487/7199235/",
-            "https://www.facebook.com/share/1D6r62CSxn/?mibextid=wwXIfr"
-        ]
-    },
-    {
-        tournament:"Lega Femminile - 3ª rodada",
-        modality:"Vôlei de Quadra (Feminino)",
-        team1:"Perugia",
-        team2:"Monviso",
-        time:"15:30",
-        channel:"VBTV",
-        links: [
-            "https://rileygainescenter.org/truc-tiep/nu-perugia-vs-nu-pinerolo-luc-0130-ngay-16-10-2025/",
-            "https://pt.sportplus.tv/volleyball/327487/7199266/"
-        ]
-    },
-    {
-        tournament:"Lega Femminile - 3ª rodada",
-        modality:"Vôlei de Quadra (Feminino)",
-        team1:"Firenze",
-        team2:"Macerata",
-        time:"15:00",
-        channel:"VBTV",
-        links: [
-            "https://pt.sportplus.tv/volleyball/327487/7199234/",
-            "https://www.facebook.com/share/1D6r62CSxn/?mibextid=wwXIfr"
-        ]
     }
 ];
 
