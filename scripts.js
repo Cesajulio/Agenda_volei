@@ -1,7 +1,7 @@
 // A agenda de jogos agora é um array de objetos em JavaScript
 const gamesOfTheDay = [
     {
-      tournament: "🇵🇱 Liga Siatkowki - Segunda rodada",
+      tournament: " Liga Siatkowki - Segunda rodada",
       modality: "Vôlei de Quadra (Feminino)",
       team1: "ŁKS Łódź",
       team2: "Bydgoszcz",
@@ -12,7 +12,7 @@ const gamesOfTheDay = [
       ]
     },
     {
-      tournament: "🇧🇷 Paulista - Final",
+      tournament: " Paulista - Final",
       modality: "Vôlei de Quadra (Masculino)",
       team1: "Campinas",
       team2: "Suzano",
