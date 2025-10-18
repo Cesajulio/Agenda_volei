@@ -1,26 +1,88 @@
 // A agenda de jogos agora é um array de objetos em JavaScript
 const gamesOfTheDay = [
+    // Vôlei de Quadra (Feminino) - Supercopa BR
     {
-      tournament: " Liga Siatkowki - Segunda rodada",
+      tournament: "Supercopa - Final",
       modality: "Vôlei de Quadra (Feminino)",
-      team1: "ŁKS Łódź",
-      team2: "Bydgoszcz",
+      team1: "Osasco",
+      team2: "Bauru",
+      time: "21h30",
+      channel: "SporTV 2 e GE TV",
+      links: [
+         " https://www.youtube.com/live/iMD1riuE9g0?si=GKmv0ofo7r0B1q7q"
+      ]
+    },
+    // Vôlei de Quadra (Feminino) - Supercopa IT
+    {
+      tournament: "Supercopa (Itália) - Final",
+      modality: "Vôlei de Quadra (Feminino)",
+      team1: "Conegliano",
+      team2: "Milano",
       time: "12h30",
       channel: "VBTV",
       links: [
-          "https://en84.sportplus.live/volleyball/2136350/7205094/"
+          "Https://e.cakeo3.online/truc-tiep/conegliano-w-vs-milano-w.guj6wpZ.9fgeq6t"
       ]
     },
+    // Vôlei de Quadra (Feminino) - Superliga RU - Jogo 1
     {
-      tournament: " Paulista - Final",
-      modality: "Vôlei de Quadra (Masculino)",
-      team1: "Campinas",
-      team2: "Suzano",
-      time: "20h30",
-      channel: "SporTV 2",
+      tournament: "Superliga (Rússia) - 3ª rodada",
+      modality: "Vôlei de Quadra (Feminino)",
+      team1: "Yenisey",
+      team2: "Lokomotiv",
+      time: "9h",
+      channel: "VolleyRU",
       links: [
-          "https://ge.globo.com/sportv/video/sportv-2-ao-vivo-no-geglobo-fifa-monitoracao-7690141.ghtml"
-          
+          "https://volley.ru/"
+      ]
+    },
+    // Vôlei de Quadra (Feminino) - Superliga RU - Jogo 2
+    {
+      tournament: "Superliga (Rússia) - 3ª rodada",
+      modality: "Vôlei de Quadra (Feminino)",
+      team1: "Moscow",
+      team2: "Tulitsa",
+      time: "11h",
+      channel: "VolleyRU",
+      links: [
+          "https://volley.ru/"
+      ]
+    },
+    // Vôlei de Quadra (Feminino) - Liga Sultanlar TR - Jogo 1
+    {
+      tournament: "Liga Sultanlar (Turquia) - 2ª rodada",
+      modality: "Vôlei de Quadra (Feminino)",
+      team1: "Ilbank",
+      team2: "Eczacibasi",
+      time: "9h",
+      channel: "TRT Spor",
+      links: [
+          "https://en84.sportplus.live/volleyball/24267/7209331/"
+      ]
+        
+    },
+    // Vôlei de Quadra (Feminino) - Liga Sultanlar TR - Jogo 2
+    {
+      tournament: "Liga Sultanlar (Turquia) - 2ª rodada",
+      modality: "Vôlei de Quadra (Feminino)",
+      team1: "VakifBank",
+      team2: "Besiktas",
+      time: "11h",
+      channel: "TRT Spor",
+      links: [
+         "https://en84.sportplus.live/volleyball/24267/7209531/"
+      ]
+    },
+    // Vôlei de Quadra (Feminino) - Liga Sultanlar TR - Jogo 3
+    {
+      tournament: "Liga Sultanlar (Turquia) - 2ª rodada",
+      modality: "Vôlei de Quadra (Feminino)",
+      team1: "KuzeyBoru",
+      team2: "Galatasaray",
+      time: "12h",
+      channel: "TVF Voleybol",
+      links: [
+          "https://en84.sportplus.live/volleyball/24267/7209332/"
       ]
     }
 ];
