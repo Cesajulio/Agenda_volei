@@ -33,7 +33,7 @@ const gamesOfTheDay = [
       time: "9h",
       channel: "VolleyRU",
       links: [
-          "https://volley.ru/"
+       " https://volley.ru/games/01JYNP5NV22GAR0ZD7Q1800KGJ?t=glbtab-1"
       ]
     },
     // Vôlei de Quadra (Feminino) - Superliga RU - Jogo 2
