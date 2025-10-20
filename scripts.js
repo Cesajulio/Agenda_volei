@@ -10,7 +10,9 @@ const gamesOfTheDay = [
       team2: "Modena",
       time: "15h",
       channel: "VBTV",
-      links: []
+      links: [
+          "https://en84.sportplus.live/volleyball/946219/7217266/"
+      ]
     },
     // Série A1 Masculina (Itália) - Jogo 2
     {
@@ -20,7 +22,9 @@ const gamesOfTheDay = [
       team2: "Grottazzolina",
       time: "15h30",
       channel: "VBTV",
-      links: []
+      links: [
+          "https://en84.sportplus.live/volleyball/946219/7217269/"
+      ]
     },
     // Série A1 Masculina (Itália) - Jogo 3
     {
@@ -30,7 +34,9 @@ const gamesOfTheDay = [
       team2: "Cuneo",
       time: "15h30",
       channel: "VBTV",
-      links: []
+      links: [
+          "https://en84.sportplus.live/volleyball/946219/7217268/"
+      ]
     },
     // Série A1 Masculina (Itália) - Jogo 4
     {
@@ -40,7 +46,9 @@ const gamesOfTheDay = [
       team2: "Piacenza",
       time: "15h30",
       channel: "VBTV",
-      links: []
+      links: [
+          "https://en84.sportplus.live/volleyball/946219/7217267/"
+      ]
     },
     // Superliga Feminina (Brasil) - Jogo 1
     {
@@ -50,7 +58,9 @@ const gamesOfTheDay = [
       team2: "Maringá",
       time: "18h30",
       channel: "VBTV",
-      links: []
+      links: [
+          "https://en84.sportplus.live/volleyball/23301/7217531/"
+      ]
     },
     // Superliga Feminina (Brasil) - Jogo 2
     {
@@ -60,7 +70,9 @@ const gamesOfTheDay = [
       team2: "Barueri",
       time: "18h30",
       channel: "SporTV2 e GE TV",
-      links: []
+      links: [
+          "https://www.youtube.com/live/pEo5aovmmS4?si=nJE3tsRGdpwcpGh7"
+      ]
     },
     // Superliga Feminina (Brasil) - Jogo 3
     {
@@ -70,7 +82,9 @@ const gamesOfTheDay = [
       team2: "Brasília",
       time: "21h",
       channel: "SporTV2 e VBTV",
-      links: []
+      links: [
+          "https://ge.globo.com/sportv/video/sportv-2-ao-vivo-no-geglobo-fifa-monitoracao-7690141.ghtml"
+      ]
     }
 ];
 
