@@ -1,89 +1,91 @@
 // A agenda de jogos agora é um array de objetos em JavaScript
 const gamesOfTheDay = [
-    // Copa Turca Masculina - Jogo 1
-   
-    // Série A1 Masculina (Itália) - Jogo 1
     {
-      tournament: "Série A1 (Itália) - Masculina",
+      tournament: "🇹🇷 Supercopa - Final",
       modality: "Vôlei de Quadra (Masculino)",
-      team1: "Milano",
-      team2: "Modena",
-      time: "15h",
-      channel: "VBTV",
+      team1: "Ziraat",
+      team2: "Fenerbahçe",
+      time: "11h30",
+      channel: "TRT Spor",
       links: [
-          "https://en84.sportplus.live/volleyball/946219/7217266/"
+          // Adicione links aqui se souber deles
       ]
     },
-    // Série A1 Masculina (Itália) - Jogo 2
     {
-      tournament: "Série A1 (Itália) - Masculina",
-      modality: "Vôlei de Quadra (Masculino)",
-      team1: "Civitanova",
-      team2: "Grottazzolina",
-      time: "15h30",
-      channel: "VBTV",
-      links: [
-          "https://en84.sportplus.live/volleyball/946219/7217269/"
-      ]
-    },
-    // Série A1 Masculina (Itália) - Jogo 3
-    {
-      tournament: "Série A1 (Itália) - Masculina",
-      modality: "Vôlei de Quadra (Masculino)",
-      team1: "Padova",
-      team2: "Cuneo",
-      time: "15h30",
-      channel: "VBTV",
-      links: [
-          "https://en84.sportplus.live/volleyball/946219/7217268/"
-      ]
-    },
-    // Série A1 Masculina (Itália) - Jogo 4
-    {
-      tournament: "Série A1 (Itália) - Masculina",
-      modality: "Vôlei de Quadra (Masculino)",
-      team1: "Verona",
-      team2: "Piacenza",
-      time: "15h30",
-      channel: "VBTV",
-      links: [
-          "https://en84.sportplus.live/volleyball/946219/7217267/"
-      ]
-    },
-    // Superliga Feminina (Brasil) - Jogo 1
-    {
-      tournament: "Superliga Feminina",
+      tournament: "🇹🇷 Liga Sultanlar - 3ª rodada",
       modality: "Vôlei de Quadra (Feminino)",
-      team1: "Fluminense",
-      team2: "Maringá",
+      team1: "Galatasaray",
+      team2: "Ilkbank",
+      time: "12h30",
+      channel: "TVF Voleybol",
+      links: [
+          // Adicione links aqui se souber deles
+      ]
+    },
+    {
+      tournament: "🇮🇹 SuperLega - 1ª rodada",
+      modality: "Vôlei de Quadra (Masculino)",
+      team1: "Cisterna",
+      team2: "Trentino",
+      time: "15h30",
+      channel: "VBTV",
+      links: [
+          // Adicione links aqui se souber deles
+      ]
+    },
+    {
+      tournament: "🇮🇹 SuperLega - 1ª rodada",
+      modality: "Vôlei de Quadra (Masculino)",
+      team1: "Monza",
+      team2: "Perugia",
+      time: "15h30",
+      channel: "VBTV",
+      links: [
+          // Adicione links aqui se souber deles
+      ]
+    },
+    {
+      tournament: "🇵🇱 PlusLiga - 1ª rodada",
+      modality: "Vôlei de Quadra (Masculino)",
+      team1: "Suwalki",
+      team2: "Rzeszów",
+      time: "15h30",
+      channel: "VBTV",
+      links: [
+          // Adicione links aqui se souber deles
+      ]
+    },
+    {
+      tournament: "🇹🇷 Copa Turca - 2ª rodada",
+      modality: "Vôlei de Quadra (Masculino)",
+      team1: "Istanbul",
+      team2: "Halkbank",
+      time: "15h30",
+      channel: "TVF Voleybol",
+      links: [
+          // Adicione links aqui se souber deles
+      ]
+    },
+    {
+      tournament: "🇧🇷 Superliga - 1ª rodada",
+      modality: "Vôlei de Quadra (Masculino)",
+      team1: "Cruzeiro",
+      team2: "Juiz de Fora",
       time: "18h30",
-      channel: "VBTV",
+      channel: "SporTV 2, VBTV e GETV",
       links: [
-          "https://en84.sportplus.live/volleyball/23301/7217531/"
+          // Adicione links aqui se souber deles
       ]
     },
-    // Superliga Feminina (Brasil) - Jogo 2
     {
-      tournament: "Superliga Feminina",
+      tournament: "🇧🇷 Superliga - 1ª rodada",
       modality: "Vôlei de Quadra (Feminino)",
-      team1: "Sesc-Flamengo",
-      team2: "Barueri",
-      time: "18h30",
-      channel: "SporTV2 e GE TV",
+      team1: "Minas",
+      team2: "Mackenzie",
+      time: "21h00",
+      channel: "SporTV 2 e VBTV",
       links: [
-          "https://www.youtube.com/live/pEo5aovmmS4?si=nJE3tsRGdpwcpGh7"
-      ]
-    },
-    // Superliga Feminina (Brasil) - Jogo 3
-    {
-      tournament: "Superliga Feminina",
-      modality: "Vôlei de Quadra (Feminino)",
-      team1: "Praia Clube",
-      team2: "Brasília",
-      time: "21h",
-      channel: "SporTV2 e VBTV",
-      links: [
-          "https://ge.globo.com/sportv/video/sportv-2-ao-vivo-no-geglobo-fifa-monitoracao-7690141.ghtml"
+          // Adicione links aqui se souber deles
       ]
     }
 ];
